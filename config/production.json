@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://jelena1997:jelena1997@cluster0.ozixrkk.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"879247515a89d49056da",
+    "githubSecret":"dab6cf074984b6d9e8cdf7e514311fafddef028a"
+}
